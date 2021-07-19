@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deleoye</title>
+    <link>https://www.oyedeloy.github.io/</link>
+    <description>Recent content on Deleoye</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Jul 2021 21:52:27 -0500</lastBuildDate><atom:link href="https://www.oyedeloy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.oyedeloy.github.io/about/</link>
+      <pubDate>Sun, 18 Jul 2021 22:05:05 -0500</pubDate>
+      
+      <guid>https://www.oyedeloy.github.io/about/</guid>
+      <description>This getting more interesting</description>
+    </item>
+    
+    <item>
+      <title>Dele</title>
+      <link>https://www.oyedeloy.github.io/blogs/dele/</link>
+      <pubDate>Sun, 18 Jul 2021 21:52:27 -0500</pubDate>
+      
+      <guid>https://www.oyedeloy.github.io/blogs/dele/</guid>
+      <description>Testing the blogThis blog works</description>
+    </item>
+    
+  </channel>
+</rss>
